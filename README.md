@@ -1,4 +1,4 @@
-<p align="center">
+<p style="text-align: justify">
 <img src="https://s2.loli.net/2022/03/27/GatsndDxfe1zKol.png" alt="mountainClimb" width="100">
 </p>
 
@@ -14,5 +14,5 @@ has been thinking to renew my idea.
 
 # steps
 
-1. design a logo :white_check_mark:
+1. design a logo(need to replace):ballot_box_with_check:
 2. write the doc for website. :ballot_box_with_check:

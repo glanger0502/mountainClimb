@@ -1,6 +1,11 @@
-# mountainClimb
+<p align="center">
+<img src="https://s2.loli.net/2022/03/27/GatsndDxfe1zKol.png" alt="mountainClimb" width="100">
+</p>
 
-accurately write some code about mountain climbing. i love walking in the mountains.
+# introduction
+
+I love waling in the mountains, so decide to write some code about mountain climbing. the accuratelly idea is not formed.
+has been thinking to renew my idea.
 
 # goals
 
@@ -9,5 +14,5 @@ accurately write some code about mountain climbing. i love walking in the mounta
 
 # steps
 
-1. design a logo :ballot_box_with_check:
+1. design a logo :white_check_mark:
 2. write the doc for website. :ballot_box_with_check:
